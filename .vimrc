@@ -133,6 +133,9 @@ let g:UltiSnipsUsePythonVersion = 3
 " To import/expand classes, trait and interfaces
 Plugin 'sahibalejandro/vim-php'
 
+" CtrlP
+Plugin 'ctrlpvim/ctrlp.vim'
+
 
 " From stackoverflow.com
 "filetype plugin indent on
